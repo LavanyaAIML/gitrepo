@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 #include<stdio.h>
 main(){
 printf("hello world");
@@ -17,4 +19,21 @@ main()
 printf("good moring");
 >>>>>>> v1
 }
+<<<<<<< HEAD
 >>>>>>> ec26ad62c4a0d805e57367cf2fd0d5a1b91d0861
+=======
+=======
+#include<stdio.h>
+main
+{
+printf("hello");
+}
+
+>>>>>>> divya
+=======
+#include<stdio.h>
+main(){
+ printf("hi");
+}
+>>>>>>> lbm
+>>>>>>> 7e8648e8dd17126f8536682f74d33db79487eaaf
