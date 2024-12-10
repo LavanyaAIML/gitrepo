@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include<stdio.h>
 main()
 {
@@ -19,3 +20,9 @@ printf("hello");
 }
 
 >>>>>>> divya
+=======
+#include<stdio.h>
+main(){
+ printf("hi");
+}
+>>>>>>> lbm
