@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 #include<stdio.h>
 main(){
 printf("hello world");
 }
 
+=======
+<<<<<<< HEAD
+#include<stdio.h>
+main()
+{
+printf("hello everyone");
+=======
+#include<stdio.h
+main()
+{
+printf("good moring");
+>>>>>>> v1
+}
+>>>>>>> ec26ad62c4a0d805e57367cf2fd0d5a1b91d0861
