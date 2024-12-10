@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include<stdio.h>
 main()
 {
@@ -10,3 +11,11 @@ main()
 printf("good moring");
 >>>>>>> v1
 }
+=======
+#include<stdio.h>
+main
+{
+printf("hello");
+}
+
+>>>>>>> divya
